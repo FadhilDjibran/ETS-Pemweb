@@ -1,0 +1,26 @@
+<!-- navbar.html -->
+<nav class="navbar">
+  <div class="container">
+    <a href="index.html" class="logo">Craftina</a>
+    <ul class="nav-links">
+      <li><a href="index.html">Beranda</a></li>
+      <li><a href="produk.html">Produk</a></li>
+      <li><a href="tentang.html">Tentang</a></li>
+      <li><a href="kontak.html">Kontak</a></li>
+    </ul>
+    <button class="menu-toggle" id="menu-toggle">☰</button>
+  </div>
+</nav>
+
+<link rel="stylesheet" href="css/nav.css">
+<script>
+  // Toggle menu responsive
+  document.addEventListener('DOMContentLoaded', function () {
+    const toggle = document.getElementById('menu-toggle');
+    const navLinks = document.querySelector('.nav-links');
+    
+    toggle.addEventListener('click', () => {
+      navLinks.classList.toggle('active');
+    });
+  });
+</script>

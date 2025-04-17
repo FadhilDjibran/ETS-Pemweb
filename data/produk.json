@@ -1,0 +1,260 @@
+[
+    {
+      "nama": "Tas Anyaman Pandan",
+      "kategori": "Anyaman",
+      "harga": 50000,
+      "stok": 10,
+      "deskripsi": "Tas tangan yang terbuat dari daun pandan kering, cocok untuk kegiatan santai.",
+      "pengrajin": "Ibu Siti Aminah"
+    },
+    {
+      "nama": "Topi Rotan Bali",
+      "kategori": "Anyaman",
+      "harga": 60000,
+      "stok": 8,
+      "deskripsi": "Topi anyaman rotan khas Bali yang ringan dan tahan lama.",
+      "pengrajin": "Bapak Ketut Dana"
+    },
+    {
+      "nama": "Selendang Tenun Ikat",
+      "kategori": "Tenun",
+      "harga": 75000,
+      "stok": 12,
+      "deskripsi": "Tenun ikat khas NTT dengan warna cerah dan motif tradisional.",
+      "pengrajin": "Ibu Maria Feronika"
+    },
+    {
+      "nama": "Kain Songket Palembang",
+      "kategori": "Tenun",
+      "harga": 200000,
+      "stok": 5,
+      "deskripsi": "Kain songket mewah dengan benang emas dan motif khas Melayu.",
+      "pengrajin": "Ibu Dahlia"
+    },
+    {
+      "nama": "Ukiran Kayu Jepara",
+      "kategori": "Ukiran",
+      "harga": 350000,
+      "stok": 3,
+      "deskripsi": "Hiasan dinding dari kayu jati ukiran halus khas Jepara.",
+      "pengrajin": "Bapak Wahyu"
+    },
+    {
+      "nama": "Kalung Manik Papua",
+      "kategori": "Perhiasan",
+      "harga": 45000,
+      "stok": 20,
+      "deskripsi": "Kalung etnik dengan susunan manik warna-warni dari Papua.",
+      "pengrajin": "Mama Yolanda"
+    },
+    {
+      "nama": "Anting Perak Lombok",
+      "kategori": "Perhiasan",
+      "harga": 80000,
+      "stok": 15,
+      "deskripsi": "Anting perak buatan tangan dengan ukiran khas Lombok.",
+      "pengrajin": "Bapak Syahrul"
+    },
+    {
+      "nama": "Hiasan Dinding Batik",
+      "kategori": "Dekorasi",
+      "harga": 90000,
+      "stok": 7,
+      "deskripsi": "Kanvas lukis batik motif Mega Mendung, cocok untuk ruang tamu.",
+      "pengrajin": "Ibu Tika"
+    },
+    {
+      "nama": "Patung Asmat",
+      "kategori": "Ukiran",
+      "harga": 150000,
+      "stok": 4,
+      "deskripsi": "Patung kayu tradisional dengan ukiran simbolik suku Asmat.",
+      "pengrajin": "Mama Ence"
+    },
+    {
+      "nama": "Gelang Rotan",
+      "kategori": "Aksesoris",
+      "harga": 25000,
+      "stok": 30,
+      "deskripsi": "Gelang simpel dari rotan alami yang tahan air.",
+      "pengrajin": "Ibu Widya"
+    },
+    {
+      "nama": "Topeng Tradisional",
+      "kategori": "Dekorasi",
+      "harga": 100000,
+      "stok": 6,
+      "deskripsi": "Topeng kayu tradisional khas Jawa untuk dekorasi atau pementasan.",
+      "pengrajin": "Bapak Anwar"
+    },
+    {
+      "nama": "Tenun Nusa Tenggara",
+      "kategori": "Tenun",
+      "harga": 120000,
+      "stok": 9,
+      "deskripsi": "Kain tenun motif garis warna cerah, buatan tangan wanita lokal.",
+      "pengrajin": "Ibu Erna"
+    },
+    {
+      "nama": "Anyaman Tikar Kalimantan",
+      "kategori": "Anyaman",
+      "harga": 70000,
+      "stok": 10,
+      "deskripsi": "Tikar besar dari serat alam, nyaman dan tahan lama.",
+      "pengrajin": "Ibu Mariam"
+    },
+    {
+      "nama": "Gantungan Kunci Manik",
+      "kategori": "Aksesoris",
+      "harga": 15000,
+      "stok": 50,
+      "deskripsi": "Aksesoris lucu dengan manik-manik warna-warni buatan anak muda lokal.",
+      "pengrajin": "Komunitas Remaja Kreatif"
+    },
+    {
+      "nama": "Keranjang Bambu",
+      "kategori": "Anyaman",
+      "harga": 55000,
+      "stok": 8,
+      "deskripsi": "Keranjang serbaguna dari bambu alami dengan pegangan kuat.",
+      "pengrajin": "Bapak Rohim"
+    },
+    {
+      "nama": "Kulit Kerbau Toraja",
+      "kategori": "Dekorasi",
+      "harga": 180000,
+      "stok": 2,
+      "deskripsi": "Ukiran khas Toraja dari kulit kerbau, kaya nilai simbolik.",
+      "pengrajin": "Ibu Yanti"
+    },
+    {
+      "nama": "Gelang Kayu Ulin",
+      "kategori": "Aksesoris",
+      "harga": 30000,
+      "stok": 18,
+      "deskripsi": "Gelang etnik dari kayu ulin Kalimantan, kuat dan tahan air.",
+      "pengrajin": "Bapak Usman"
+    },
+    {
+      "nama": "Miniatur Rumah Gadang",
+      "kategori": "Dekorasi",
+      "harga": 130000,
+      "stok": 4,
+      "deskripsi": "Miniatur kayu detail dari rumah adat Minangkabau.",
+      "pengrajin": "Bapak Arif"
+    },
+    {
+      "nama": "Anyaman Daun Lontar",
+      "kategori": "Anyaman",
+      "harga": 60000,
+      "stok": 9,
+      "deskripsi": "Anyaman motif etnik dari daun lontar, ringan dan unik.",
+      "pengrajin": "Ibu Rika"
+    },
+    {
+      "nama": "Bros Etnik Batik",
+      "kategori": "Aksesoris",
+      "harga": 20000,
+      "stok": 25,
+      "deskripsi": "Bros kecil batik motif etnik khas Jawa Tengah.",
+      "pengrajin": "Ibu Lestari"
+    },
+
+{
+  "nama": "Tas Rajut Makassar",
+  "kategori": "Aksesoris",
+  "harga": 65000,
+  "stok": 10,
+  "deskripsi": "Tas rajut warna-warni buatan tangan dari benang katun.",
+  "pengrajin": "Ibu Nurhayati"
+},
+{
+  "nama": "Tempat Tisu Anyaman",
+  "kategori": "Anyaman",
+  "harga": 30000,
+  "stok": 25,
+  "deskripsi": "Tempat tisu dari bambu cocok untuk ruang tamu.",
+  "pengrajin": "Bapak Hasan"
+},
+{
+  "nama": "Dompet Tenun Flores",
+  "kategori": "Tenun",
+  "harga": 40000,
+  "stok": 18,
+  "deskripsi": "Dompet kecil dengan motif khas Flores dan lapisan dalam kain.",
+  "pengrajin": "Ibu Maria Yosepha"
+},
+{
+  "nama": "Ukiran Daun Jati",
+  "kategori": "Ukiran",
+  "harga": 115000,
+  "stok": 6,
+  "deskripsi": "Hiasan dinding dengan motif dedaunan dari kayu jati.",
+  "pengrajin": "Bapak Sukirman"
+},
+{
+  "nama": "Anting Batok Kelapa",
+  "kategori": "Perhiasan",
+  "harga": 20000,
+  "stok": 30,
+  "deskripsi": "Anting ringan dari batok kelapa, ramah lingkungan dan unik.",
+  "pengrajin": "Ibu Retno"
+},
+{
+  "nama": "Hiasan Kayu Kaligrafi",
+  "kategori": "Dekorasi",
+  "harga": 155000,
+  "stok": 4,
+  "deskripsi": "Kaligrafi ukiran tangan dari kayu jati ukuran sedang.",
+  "pengrajin": "Bapak Mukhlis"
+},
+{
+  "nama": "Gantungan Anyaman Hati",
+  "kategori": "Aksesoris",
+  "harga": 10000,
+  "stok": 40,
+  "deskripsi": "Gantungan kunci bentuk hati dari anyaman rotan kecil.",
+  "pengrajin": "Komunitas Perempuan Desa"
+},
+{
+  "nama": "Miniatur Angklung",
+  "kategori": "Dekorasi",
+  "harga": 50000,
+  "stok": 11,
+  "deskripsi": "Miniatur alat musik Angklung dari bambu asli.",
+  "pengrajin": "Bapak Sumarna"
+},
+{
+  "nama": "Tas Lurik Jogja",
+  "kategori": "Tenun",
+  "harga": 85000,
+  "stok": 9,
+  "deskripsi": "Tas slempang dari kain lurik warna klasik.",
+  "pengrajin": "Ibu Sri Wahyuni"
+},
+{
+  "nama": "Keranjang Piknik Bambu",
+  "kategori": "Anyaman",
+  "harga": 90000,
+  "stok": 6,
+  "deskripsi": "Keranjang besar untuk piknik dengan pegangan kulit sintetis.",
+  "pengrajin": "Bapak Hadi"
+},
+{
+  "nama": "Bando Batik Anak",
+  "kategori": "Aksesoris",
+  "harga": 15000,
+  "stok": 35,
+  "deskripsi": "Bando untuk anak-anak dengan motif batik lucu.",
+  "pengrajin": "Ibu Lilis"
+},
+{
+  "nama": "Patung Penari Bali",
+  "kategori": "Ukiran",
+  "harga": 250000,
+  "stok": 3,
+  "deskripsi": "Patung kayu ukiran halus menggambarkan penari Bali.",
+  "pengrajin": "Bapak Gede Sujana"
+}
+]
+  

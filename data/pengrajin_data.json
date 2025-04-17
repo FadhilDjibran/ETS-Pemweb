@@ -1,0 +1,80 @@
+{
+    "Bandung": [
+        {
+            "nama": "Ani Sulastri",
+            "keahlian": "Rajut",
+            "foto": "img/pengrajin/pengrajin-ani.jpg",
+            "deskripsi": "Menghasilkan berbagai produk rajutan seperti tas, dompet, dan topi rajut dengan motif khas Sunda.",
+            "rating": 4.8
+        },
+        {
+            "nama": "Dedi Pratama",
+            "keahlian": "Kayu Ukir",
+            "foto": "img/pengrajin/pengrajin-dedi.jpg",
+            "deskripsi": "Ahli dalam membuat ukiran kayu dekoratif dan furnitur kecil dari kayu jati.",
+            "rating": 4.7
+        },
+        {
+            "nama": "Agus Salim",
+            "keahlian": "Kayu Ukir",
+            "foto": "img/pengrajin/pengrajin-dedi.jpg",
+            "deskripsi": "Ahli dalam membuat ukiran kayu dekoratif dan furnitur kecil dari kayu jati.",
+            "rating": 4.7
+        },
+        {
+            "nama": "Selastri",
+            "keahlian": "Rajut",
+            "foto": "img/pengrajin/pengrajin-ani.jpg",
+            "deskripsi": "Menghasilkan berbagai produk rajutan seperti tas, dompet, dan topi rajut dengan motif khas Sunda.",
+            "rating": 4.8
+        }
+    ],
+    "Bali": [
+        {
+            "nama": "Made Arya",
+            "keahlian": "Anyaman Bambu",
+            "foto": "img/pengrajin/pengrajin-made.jpg",
+            "deskripsi": "Membuat keranjang, nampan, dan tempat lampu dari bambu dengan motif khas Bali.",
+            "rating": 4.9
+        },
+        {
+            "nama": "Ketut Sari",
+            "keahlian": "Kerajinan Kain Endek",
+            "foto": "img/pengrajin/pengrajin-ketut.jpg",
+            "deskripsi": "Pengrajin kain endek Bali dengan pewarnaan alami dan teknik tradisional.",
+            "rating": 4.6
+        },
+        {
+            "nama": "Mayang sri",
+            "keahlian": "Kerajinan Kain Endek",
+            "foto": "img/pengrajin/pengrajin-ketut.jpg",
+            "deskripsi": "Pengrajin kain endek Bali dengan pewarnaan alami dan teknik tradisional.",
+            "rating": 4.6
+        }
+    ],
+    "Yogyakarta": [
+        {
+            "nama": "Siti Nurjanah",
+            "keahlian": "Batik Tulis",
+            "foto": "img/pengrajin/pengrajin-siti.jpg",
+            "deskripsi": "Spesialis batik tulis klasik dengan pewarna alam dan motif kontemporer.",
+            "rating": 5.0
+        },
+        {
+            "nama": "Bambang Riyanto",
+            "keahlian": "Kulit",
+            "foto": "img/pengrajin/pengrajin-bambang.jpg",
+            "deskripsi": "Membuat dompet, tas, dan sabuk dari kulit asli dengan finishing halus.",
+            "rating": 4.8
+        },
+        {
+            "nama": "Budiman",
+            "keahlian": "Kulit",
+            "foto": "img/pengrajin/pengrajin-bambang.jpg",
+            "deskripsi": "Membuat dompet, tas, dan sabuk dari kulit asli dengan finishing halus.",
+            "rating": 4.8
+        }
+    ]
+
+    
+}
