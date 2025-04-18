@@ -1,42 +1,42 @@
 
-// const pengrajinData = [
-//     {
-//         nama: "Ibu Retno",
-//         asal: "Bantul, Yogyakarta",
-//         keahlian: "Anyaman bambu dan batok kelapa",
-//         foto: "ibu-retno.jpg"
-//     },
-//     {
-//         nama: "Bapak Gede Sujana",
-//         asal: "Gianyar, Bali",
-//         keahlian: "Ukiran kayu dan patung tradisional",
-//         foto: "bapak-gede.jpg"
-//     },
-//     {
-//         nama: "Ibu Sri Wahyuni",
-//         asal: "Klaten, Jawa Tengah",
-//         keahlian: "Kerajinan lurik dan tas tenun",
-//         foto: "ibu-sri.jpg"
-//     },
-//     {
-//         nama: "Bapak Sumarna",
-//         asal: "Bandung, Jawa Barat",
-//         keahlian: "Alat musik bambu dan dekorasi rumah",
-//         foto: "bapak-sumarna.jpg"
-//     },
-//     {
-//         nama: "Bapak Sumarna",
-//         asal: "Bandung, Jawa Barat",
-//         keahlian: "Alat musik bambu dan dekorasi rumah",
-//         foto: "bapak-sumarna.jpg"
-//     },
-//     {
-//         nama: "Bapak Sumarna",
-//         asal: "Bandung, Jawa Barat",
-//         keahlian: "Alat musik bambu dan dekorasi rumah",
-//         foto: "bapak-sumarna.jpg"
-//     }
-// ];
+const pengrajinData = [
+    {
+        nama: "Ibu Retno",
+        asal: "Bantul, Yogyakarta",
+        keahlian: "Anyaman bambu dan batok kelapa",
+        foto: "ibu-retno.jpg"
+    },
+    {
+        nama: "Bapak Gede Sujana",
+        asal: "Gianyar, Bali",
+        keahlian: "Ukiran kayu dan patung tradisional",
+        foto: "bapak-gede.jpg"
+    },
+    {
+        nama: "Ibu Sri Wahyuni",
+        asal: "Klaten, Jawa Tengah",
+        keahlian: "Kerajinan lurik dan tas tenun",
+        foto: "ibu-sri.jpg"
+    },
+    {
+        nama: "Bapak Sumarna",
+        asal: "Bandung, Jawa Barat",
+        keahlian: "Alat musik bambu dan dekorasi rumah",
+        foto: "bapak-sumarna.jpg"
+    },
+    {
+        nama: "Bapak Sumarna",
+        asal: "Bandung, Jawa Barat",
+        keahlian: "Alat musik bambu dan dekorasi rumah",
+        foto: "bapak-sumarna.jpg"
+    },
+    {
+        nama: "Bapak Sumarna",
+        asal: "Bandung, Jawa Barat",
+        keahlian: "Alat musik bambu dan dekorasi rumah",
+        foto: "bapak-sumarna.jpg"
+    }
+];
 
 document.addEventListener("DOMContentLoaded", () => {
     fetch("data/pengrajin_data.json")

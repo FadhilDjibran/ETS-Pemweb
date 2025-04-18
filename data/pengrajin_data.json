@@ -45,7 +45,7 @@
             "rating": 4.6
         },
         {
-            "nama": "Mayang sri",
+            "nama": "Mayang Sri",
             "keahlian": "Kerajinan Kain Endek",
             "foto": "img/pengrajin/pengrajin-ketut.jpg",
             "deskripsi": "Pengrajin kain endek Bali dengan pewarnaan alami dan teknik tradisional.",
@@ -75,6 +75,4 @@
             "rating": 4.8
         }
     ]
-
-    
 }
